@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("AllSetCursor")> 
 <Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("OLYMPUS")> 
+<Assembly: AssemblyCompany("")> 
 <Assembly: AssemblyProduct("AllSetCursor")> 
-<Assembly: AssemblyCopyright("Copyright © OLYMPUS 2014")> 
+<Assembly: AssemblyCopyright("Copyright © obataka 2014")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
